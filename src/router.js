@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Meta from 'vue-meta'
+// import Meta from 'vue-meta'
 
 import FrameDashboard1 from './views/frame-dashboard1'
 import Page from './views/page'
